@@ -1,7 +1,7 @@
-## Hi Fellas 👋
+# Hi Fellas 👋 (Profile masih dalam tahap pengembangan)
 
-# 💫 About Me:
-My name is Muhammad Rifky <br>🔭 I’m seeking for a job<br>👯 and I’m looking to collaborate on Project <br>🌱 I’m currently learning coding and ML<br>⚡ Fun fact im a jobless
+## 💫 About Me:
+My name is Muhammad Rifky <br>🔭 I’m seeking for a job<br>👯 and I’m looking to collaborate on Project <br>🌱 I’m currently learning coding and ML<br>⚡ Fun fact i always curious about technology 
 
 
 ## 🌐 Socials:
